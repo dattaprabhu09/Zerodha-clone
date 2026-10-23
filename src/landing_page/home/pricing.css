@@ -1,0 +1,44 @@
+.price-container{
+    /* border: 1px solid black; */
+    margin: auto;
+    height: 300px;
+    width : 95vw;
+    margin-top: 30px;
+    margin-bottom: 50px;
+    display: flex;
+    padding: 10px;
+    margin-top: 100px;
+}
+
+#price-left{
+    /* border: 1px solid black; */
+    width: 35%;
+    height: 70%;
+    padding:50px 30px;
+    margin-left: 100px;
+}
+
+#price-right {
+    /* border: 1px solid black; */
+    width: 65%;
+    height: 90%;
+    padding: 5px 10px;
+    margin-left: 370px;
+    margin-bottom: 300px;
+    display: flex;
+    flex-direction: row;
+}
+
+#price-one , #price-two {
+    text-align: center;
+    border: 1px solid black;
+    width: 40%;
+    height: 60%;
+    padding: 10px 45px;
+    margin-left: 100px;
+    margin: 20px;
+}
+
+#pricing {
+    text-decoration: none;
+}

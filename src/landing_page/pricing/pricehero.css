@@ -1,0 +1,41 @@
+.price-hero-container {
+    border: 1px solid black;
+    width: 98vw;
+    height: 700px;
+    margin: auto;
+    margin-top: 60px;
+
+}
+
+.hero-first {
+    border: 1px solid black;
+    width: 50vw;
+    height: 100px;
+    margin: auto;
+    margin-top: 50px;
+    text-align: center;
+
+}
+
+.hero-second {
+    border: 1px solid black;
+    width: 95vw;
+    height: 480px;
+    margin: auto;
+    margin-top: 40px;
+    display: flex
+}
+
+#hero-img {
+    border: 1px solid black;
+    width: 25%;
+    height: 400px;
+    margin: auto;
+    text-align: center;
+    padding: 30px;
+}
+
+#hero-img img{
+    height: 200px;
+    width: 300px;
+}

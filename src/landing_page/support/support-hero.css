@@ -1,0 +1,42 @@
+.support-hero-container {
+    border: 1px solid rgb(255, 255, 255);
+    background-color: #e2e2e5;
+    width: 100%;
+    height:auto;
+    /* margin: auto; */
+
+    margin-top: 60px;
+}
+
+.sub-header-1{
+    /* border: 1px solid black; */
+    width: 85%;
+    /* height: auto; */
+    display: flex;
+    justify-content: space-between;
+    margin: 40px auto;
+}
+
+
+.sub-header-1 button {
+    width: 130px;
+    border-radius: 10px;
+    background-color: rgb(52, 52, 218);
+    color:white;
+    font-size: 20px;
+    font-weight: 500;
+}
+
+.sub-header-2 {
+     border: 1px solid black;
+    width: 85%;
+    margin: 40px auto;
+    line-height: 50px;
+}
+
+.sub-header-2 input {
+    width: 100%;
+    line-height: 50px;
+    font-size: 15px;
+
+}

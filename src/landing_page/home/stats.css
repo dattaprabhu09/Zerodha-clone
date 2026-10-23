@@ -1,0 +1,47 @@
+.stats-container {
+    /* border: 1px solid black; */
+    margin: auto;
+    height: auto;
+    width : 95vw;
+    margin-top: 30px;
+    display: flex;
+    /* direction: row; */
+}
+
+.stats-left, .stats-right  {
+    width: 45%;
+    height: auto;
+    margin: auto;
+}
+
+.stats-right{
+     display: flex;
+    flex-direction: column;    
+    
+}
+
+.stats-left {
+    padding: 30px;
+    margin-left: 50px;
+}
+
+h1 {
+    font-size: 30px;
+}
+
+#ecosystem {
+    height: auto;
+    text-align: center;
+
+}
+
+#anchor {
+    /* border: 1px solid black; */
+    padding: 5px;
+    margin-left: 40px;
+}
+
+#explore , #trykite{
+    text-decoration: none;
+    margin: 50px;
+}

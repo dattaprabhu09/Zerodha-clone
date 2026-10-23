@@ -1,0 +1,150 @@
+.footer {
+    background-color: rgb(234, 239, 243);
+    /* border:1px solid black; */
+    width: 100%;
+    /* max-width: 1280px; */
+    /* height: 950px; */
+    margin: 50px auto 0 auto;
+    padding: 50px 30px;
+    box-sizing: border-box;
+}
+
+.top-col{
+    display: flex;
+    justify-content: space-between;
+    flex-wrap:wrap;
+    gap:30px;
+}
+
+.first-col {
+    flex:1;
+    min-width: 250px;
+}
+
+.logo {
+    width: 120px;
+    margin-left: 150px;
+
+}
+
+.logo img {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+#ul  {
+    margin-right: 30px;
+    list-style-type: none;
+    display:flex;
+    justify-content:start ;
+}
+
+#ul {
+    list-style-type: none;
+    display: flex;
+    padding:0;
+    margin-right: 15px 0;
+
+}
+
+li a i {
+    color: black;
+    font-size: 18px;
+    text-decoration: none;
+}
+
+#ul li a:hover {
+    color: #387ED1;
+}
+
+.img {
+    display: flex;
+    gap:10px;
+    margin: 15px;
+}
+
+#footer-img {
+    margin-right: 12px;
+}
+
+.second-col{
+    /* border:1px solid black; */
+    display: flex;
+    flex:2;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+    gap:20px;
+    min-width:300px;
+}
+
+#col {
+    /* border: 1px solid black; */
+    margin: 0;
+    min-width:130px;
+    height: auto;
+    flex:1;
+}
+
+#col h1 {
+    font-size: 16px;
+    margin-bottom: 15px;
+    padding-left: 0;
+    color: #424242;
+}
+
+#col a {
+    display: block;
+    margin-left: 0;
+    margin-bottom: 8px;
+    font-size: 14px;
+    color: #666;
+    text-decoration: none;
+}
+
+#col a:hover {
+    color:#387ED1;
+    cursor:pointer;
+}
+.bottom-col  {
+    margin-top:40px;
+    /* border: 1px solid black; */
+    height: auto;
+    width: 100%;
+    padding: 0;
+    box-sizing: border-box;
+    border-top: 1px solid #dcdcdc;
+    padding-top: 30px;
+}
+
+.bottom-col p {
+    font-size: 12px;
+    line-height: 1.6;
+    color: #777;
+    margin-bottom: 15px;
+
+}
+
+.bottom-col p a {
+    color: #387ED1;
+}
+
+.bottom-div {
+    /* border: 1px solid black; */
+    margin-top: 30px;
+    text-align: center;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 15px;
+}
+
+#bottom-anchor {
+    text-decoration: none;
+    color: #999;
+    font-size: 12px;
+}
+
+#bottom-anchor:hover {
+    color:#387ED1;
+}

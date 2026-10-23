@@ -1,0 +1,38 @@
+.hero-container  {
+    margin: auto;
+    /* border: 1px solid black; */
+    text-align: center;
+    width: 95%;
+    height: auto;
+    margin-top: 90px;
+}
+
+.row  {
+    /* border: 1px solid black; */
+    margin-bottom: 20px;
+    margin: auto;
+    width: 80%;
+    padding: 60px;
+    line-height: 55px;
+}
+
+img {
+    width : 1200px;
+    height: auto;
+}
+
+#signup {
+    width: 25%;
+    font-size: 30px;
+    border-radius: 10px;
+    padding: 5px;
+    background-color: rgb(52, 52, 218);
+    color:white;
+}
+
+p {
+    font-size: 20px;
+}
+
+
+

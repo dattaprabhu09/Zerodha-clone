@@ -1,0 +1,43 @@
+.brokerge-container {
+    border: 1px solid black;
+    width: 98vw;
+    height: 500px;
+    margin: auto;
+    margin-top: 60px;
+
+}
+
+
+.brokerge-heading{
+    border: 1px solid black;
+    color: rgb(55, 55, 233);
+    width:85vw;
+    height: 50px;
+    margin: auto;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    /* margin-right: 100px; */
+}
+
+.calculator {
+    border: 1px solid black;
+    width: 43vw;
+    height: 400px;
+    margin-left: 140px;
+    margin-top:30px;
+    padding-left: 50px;
+    padding-right:50px;
+
+}
+
+.calculator ul li {
+    line-height: 40px;
+}
+
+
+table {
+    border:1px solid black ;
+    width:60%;
+    height: 300px;
+}

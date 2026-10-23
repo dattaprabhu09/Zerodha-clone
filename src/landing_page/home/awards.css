@@ -1,0 +1,43 @@
+.award-container {
+    /* border: 1px solid black; */
+    margin: auto;
+    height: auto;
+    width : 95vw;
+    margin-top: 30px;
+    display: flex;
+    flex-direction: row;
+    
+}
+
+#award-image , #award-right  {
+    text-align: center;
+    /* border: 1px solid black; */
+    width: 35%;
+    height: auto;
+    margin: auto;
+}
+
+#award-image {
+    display: flex;
+    justify-content: center;
+}
+
+ img {
+    height: auto;
+    width:80%;
+   
+}
+
+#award-right {
+    padding-top:40px;
+}
+
+.list1  {
+    display: flex;
+}
+
+#presslogos {
+    padding-top:15px ;
+    height: auto;
+    width:95%;
+}

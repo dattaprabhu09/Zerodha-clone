@@ -1,0 +1,24 @@
+.openacc-container  {
+    /* display: flex; */
+    /* justify-content: center; */
+    margin: auto;
+    /* border: 1px solid black; */
+    text-align: center;
+    width: 95%;
+    height: 200px;
+    margin-bottom: 50px;
+    /* padding: 30px; */
+}
+
+#acc {
+    width:15%;
+    font-size: 30px;
+    border-radius: 10px;
+    padding: 5px;
+    background-color: rgb(52, 52, 218);
+    color:white;
+}
+
+
+
+

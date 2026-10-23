@@ -1,0 +1,105 @@
+.universe-container{
+    border: 1px solid black;
+    width: 98vw;
+    height:800px;
+    /* margin-top: 50px; */
+    display: flex;
+    flex-direction: column;
+    /* justify-content: center; */
+    align-items: center;
+} 
+
+.first-universe{
+    border: 1px solid black;
+    width: 95%;
+    height: 100px;
+    margin: auto;
+    text-align: center;
+}
+
+.second-universe{
+    margin-top:15px;
+    border: 1px solid black;
+    width:60vw;
+    height: 250px;
+    display: flex;
+    flex-direction: row; 
+    /* justify-content: space-around; */
+    /* padding: 20px; */
+}
+
+#second-img {
+    border: 1px solid black;
+    width:28%;
+    height: 180px;
+    padding: 10px;
+    margin: auto;
+    text-align: center;
+}
+
+#second-img a {
+    color:black;
+    font-size:14px;
+}
+
+#second-img a:hover {
+    color:blueviolet;
+}
+
+#images {
+    /* border: 1px solid black; */
+    width: 130px;
+    height: 60px;
+}
+
+.third-universe {
+    margin-top:15px;
+    border: 1px solid black;
+    width:60vw;
+    height: 250px;
+    display: flex;
+    flex-direction: row; 
+    justify-content: space-around;
+    /* padding: 20px; */
+}
+
+#third-img{
+    border: 1px solid black;
+    width:28%;
+    height: 180px;
+    padding: 10px;
+    /* margin-left: 50px;
+    margin-right: 10px; */
+    margin: 10px;
+    text-align: center;
+}
+
+#third-img a {
+    color:black;
+    font-size:14px;
+}
+
+#third-img a:hover {
+    color:blueviolet;
+}
+
+.four-universe {
+    border: 1px solid black;
+    width: 15%;
+    height: 100px;
+    display:flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+    margin: auto;
+}
+
+.four-universe #btn-sign {
+    font-size: 25px;
+    width: 200px;
+    height: 50px;
+    /* border-radius: 15px; */
+    /* margin: auto; */
+    background-color: rgb(52, 52, 218);;
+    color: white;
+}
