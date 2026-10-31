@@ -4,7 +4,7 @@ import './awards.css'
 function Awards() {
     return (
         <div className='award-container'>
-            <div id="award-image"><img src='src/assets/largestBroker.svg'/></div>
+            <div id="award-image"><img src='/largestBroker.svg'/></div>
 
             <div id="award-right">
             <div id="inner">
