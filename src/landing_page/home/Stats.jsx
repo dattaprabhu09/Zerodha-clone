@@ -22,7 +22,7 @@ function Stats() {
             </div>
             <div className='stats-right'> 
                 <div id="ecosystem">
-                <img  src="src/assets/ecosystem (1).png" />
+                <img  src="/ecosystem (1).png" />
                 </div>
                 <div id='anchor'>
                     <a id="explore"  href=''>Explore our products <i class="fa-solid fa-right-long"></i> </a>&nbsp;

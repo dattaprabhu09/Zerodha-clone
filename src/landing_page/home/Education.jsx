@@ -5,7 +5,7 @@ function  Education() {
     return ( 
         <div className='education-container'>
             <div id="edu-left">
-                <img src="src/assets/education.svg" alt="education-img" />
+                <img src="/education.svg" alt="education-img" />
             </div>
             <div id="edu-right">
              
