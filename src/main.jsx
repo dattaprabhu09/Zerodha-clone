@@ -10,7 +10,7 @@ import NotFound from './landing_page/Notfound.jsx';
 
 import Homepage from './landing_page/home/Homepage.jsx'
 import Signup from "./landing_page/signup/Signup.jsx"
-import AboutPage from './landing_page/about/Aboutpage.jsx';
+import AboutPage from './landing_page/about/AboutPage.jsx';
 import ProductPage from "./landing_page/product/ProductPage.jsx";
 import PricingPage from "./landing_page/pricing/PricingPage.jsx"
 import SupportPage from './landing_page/support/SupportPage.jsx';
