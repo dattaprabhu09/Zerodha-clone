@@ -2,7 +2,7 @@ import React from 'react';
 import Hero from './Hero';
 import Team from './Team';
 
-function Aboutpage() {
+function AboutPage() {
     return ( 
         <div>
             <Hero/>
@@ -11,4 +11,4 @@ function Aboutpage() {
      );
 }
 
-export default Aboutpage;
+export default AboutPage;
