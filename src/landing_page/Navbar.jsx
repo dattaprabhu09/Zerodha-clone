@@ -6,7 +6,7 @@ function Navbar() {
     return ( 
         <div className='navbar'>
             <div className='nav-left'>
-                <Link to="/"> <img src="src/assets/logo.svg" alt="zerodha-logo" /></Link>
+                <Link to="/"> <img src="/logo.svg" alt="zerodha-logo" /></Link>
             </div>
 
             <div className='nav-right'>
