@@ -19,7 +19,7 @@ const app = express();
 
 // app.use(cors());
 app.use(cors({
-  origin: ["http://localhost:5173", "http://localhost:8080"], // Tumcha frontend URL ithe dya
+  origin: ["http://localhost:5173", "http://localhost:8080", "https://zerodha-dashboard-snowy.vercel.app"], // Tumcha frontend URL ithe dya
   methods: ["GET", "POST", "PUT", "DELETE"],
   credentials: true,
 }));
