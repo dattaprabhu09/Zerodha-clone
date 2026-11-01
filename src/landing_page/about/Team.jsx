@@ -9,7 +9,7 @@ function Team () {
             </div>
             <div className='data'>
                 <div id="info-first">
-                    <img id="img" src="\src\assets\nithinKamath.jpg" alt="img" />
+                    <img id="img" src="/nithinKamath.jpg" alt="img" />
                     <h2>Nithin Kamath</h2>
                     <p>Founder, CEO</p>
                 </div>

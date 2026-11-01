@@ -11,8 +11,8 @@ function  RightSection ({imageURL , productName, productDescription , learnMore,
                     <a style={{marginLeft:"30px"}}href={learnMore}>Learn More <i class="fa-solid fa-arrow-right-long"></i></a>
                 </div>
                 <div className='rightsection-left-img'>
-                    <a href={googlePlay}><img id="rightsection-img" src="src\assets\googlePlayBadge.svg" /></a>
-                    <a style={{marginLeft:"30px"}} href={appStore}><img id="rightsection-img" src="src\assets\appstoreBadge.svg" /></a>
+                    <a href={googlePlay}><img id="rightsection-img" src="/googlePlayBadge.svg" /></a>
+                    <a style={{marginLeft:"30px"}} href={appStore}><img id="rightsection-img" src="/appstoreBadge.svg" /></a>
                 </div>
             </div>
               <div className='rightsection-right'>

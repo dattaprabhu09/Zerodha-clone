@@ -15,8 +15,8 @@ function  LeftSection ({imageURL , productName, productDescription , tryDemo , l
                     <a style={{marginLeft:"30px"}}href={learnMore}>Learn More </a>
                 </div>
                 <div className='leftsection-right-img'>
-                    <a href={googlePlay}><img id="leftsection-img" src="src\assets\googlePlayBadge.svg" /></a>
-                    <a style={{marginLeft:"30px"}} href={appStore}><img id="leftsection-img" src="src\assets\appstoreBadge.svg" /></a>
+                    <a href={googlePlay}><img id="leftsection-img" src="/googlePlayBadge.svg" /></a>
+                    <a style={{marginLeft:"30px"}} href={appStore}><img id="leftsection-img" src="/appstoreBadge.svg" /></a>
                 </div>
             </div>
             
