@@ -52,6 +52,7 @@ li a i {
     color: black;
     font-size: 18px;
     text-decoration: none;
+    margin-right: 10px;
 }
 
 #ul li a:hover {
