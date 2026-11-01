@@ -7,7 +7,7 @@ function Footer () {
             <div className='top-col'>
             <div className='first-col'>
                 <div className='logo'>
-                    <img id="logo-ze" src="src/assets/logo.svg" />
+                    <img id="logo-ze" src="/logo.svg" />
                     <br></br> 
                     <p>© 2010 - 2026, Zerodha Broking Ltd.All rights reserved.</p>
                       <br></br> 
